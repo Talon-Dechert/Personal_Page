@@ -1,0 +1,1 @@
+My first attempt at a website, I'll be trying to make changes here often as I learn new material
